@@ -1,0 +1,60 @@
+header {position:absolute;left:0;right:0}
+
+#slider1 .owl-dots {position:absolute;left:0;right:0;top:15%;text-align:center}
+#slider1 .owl-dots .owl-dot {display:inline-block;background:#a69ed7;padding:5px;border-radius:10px;margin:0 5px}
+#slider1 .owl-dots .active {background:#fff}
+
+#sec3 .text-center {font-size:2em;font-weight:700;letter-spacing:-1px;margin-bottom:10px}
+#sec3 .owl-arrow {text-align:center;margin:20px 0 20px 0;font-size:1.2em;color:#989898}
+#sec3 .owl-arrow .active {color:#212121}
+#sec3 .owl-arrow span {display:inline-block;margin:0 3px}
+#sec3 .item {text-align:center}
+#sec3 .item strong {display:block;font-size:19px;line-height:1.2em;margin:15px 0}
+#sec3 .item p {font-size:1.1em;line-height:1.2em}
+
+#sec4 {margin:60px auto}
+#sec4 h5 {font-size:21px;font-weight:700;letter-spacing:-1px}
+#sec4 strong {display:block;text-align:center;font-size:18px;margin:30px 0 15px}
+#sec4 p {font-size:1.1em;line-height:1.2em;text-align:center}
+#sec4 .owl-dots {text-align:center;margin-top:15px}
+#sec4 .owl-dots .owl-dot {display:inline-block;background:#a69ed7;padding:5px;border-radius:10px;margin:0 5px}
+#sec4 .owl-dots .active {background:#090909}
+
+#sec5 h5 {font-size:21px;font-weight:700;letter-spacing:-1px}
+#sec5 .category {text-align:center;margin-bottom:15px}
+#sec5 .category li {display:inline-block}
+#sec5 .category li a {display:inline-block;background:url('/img/main/review_y_tit.png') center top no-repeat;background-size:cover;width:35px;height:32px;margin:0 10px}
+#sec5 .category li:nth-child(2) a {background-image:url('/img/main/review_p_tit.png')}
+#sec5 .category li:nth-child(3) a {background-image:url('/img/main/review_t_tit.png');height:31px}
+#sec5 .category li a.on {background-position:center bottom}
+#sec5 .sub {display:none}
+#sec5 .sub.on {display:block}
+
+#sec6 {margin:45px auto 0 auto}
+
+
+i.arrow {
+  border: solid black;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 4px;
+}
+.arrow.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.arrow.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.arrow.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.arrow.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}

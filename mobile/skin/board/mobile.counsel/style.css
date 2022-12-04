@@ -1,0 +1,60 @@
+.board_category {width:100%;display:none}
+.ul-tab {margin-bottom:20px}
+
+.board-wrap {margin-top:20px}
+/*
+.board-wrap-counsel .board_category {margin: 0;margin-bottom:50px;}
+.board-wrap-counsel .board_category li {float:left;width:50%;}
+.board-wrap-counsel .board_category li a {background:#fff;display: block;line-height:1em;padding:10px 0;text-align: center;color: #585f79;position: relative;border: 1px solid #dee1e6;border-left-width:0; border-top-width:0}
+.board-wrap-counsel .board_category li:nth-child(1) a,
+.board-wrap-counsel .board_category li:nth-child(2) a {border-top-width:1px}
+.board-wrap-counsel .board_category li:nth-child(1) a,
+.board-wrap-counsel .board_category li:nth-child(3) a,
+.board-wrap-counsel .board_category li:nth-child(5) a,
+.board-wrap-counsel .board_category li:nth-child(7) a,
+.board-wrap-counsel .board_category li:nth-child(9) a {border-left-width:1px}
+.board-wrap-counsel .board_category li a em {display: none}
+.board-wrap-counsel .board_category li a.on {background: #2a3ea7;border-left: 0;border-right: 0;color: #fff}
+.board-wrap-counsel .board_category li a.onPrev em {left: 0;display: block}
+.board-wrap-counsel .board_category li a:hover,.board_category li a:focus {color: #789f24;text-decoration: none}
+.board-wrap-counsel .board_category:after {display: block;content: '';clear: both}
+*/
+
+
+.board_list {width:100%;table-layout:fixed;overflow:hidden}
+.board_list thead tr th {border-top:1px solid #222;border-bottom:1px solid #222;background:#333;color:#fff}
+.board_list thead tr th em {position:absolute;width:1px;height:40%;top:30%;background:#bababa;right:0;display:none}
+.board_list th,
+.board_list td {border-bottom: 1px solid #dee1e6;padding:15px 0}
+.board_list tbody td {border-bottom: 1px solid #d3d3d3; padding:10px 0}
+.board_list tbody tr td a { display: block; text-overflow: ellipsis; overflow:hidden;white-space: nowrap;}
+.board_list tbody tr.notice { background: #fffde5 }
+.board_list .num, .board_list .name { text-align: center }
+.board_list .num {font-size:.9em;letter-spacing:-2px}
+.board_list .subject { position: relative }
+.board_list .subject img:first-child {width:12px}
+.board_list .subject img:nth-child(2) {width:8px}
+.board_list .name {white-space:nowrap}
+.board_list .icon_new { font-size: 20px; background: #88c3f0; line-height: 1em; padding: 6px 5px 4px 5px; color: #fff; font-weight: bold; border-radius: 5px; font-family: Tahoma; position: absolute; right: 0; top: 7px; z-index: 1; letter-spacing: -1px }
+
+.board_list .reply {text-align:center}
+.board_list .ico  {background:#ff53a4;border:1px solid #ff53a4;color:#fff;display:inline-block;width:80%;line-height:1.6em;border-radius:5px;font-size:.9em}
+.board_list .gray {background:#a6a6a6;border:1px solid #949494}
+.board_list .datetime {letter-spacing:-1px;font-size:.9em;text-align:center}
+.board_list .best td {background:#f2f7fa}
+.board_list tr:last-child td {border-bottom:1px solid #484546}
+
+form[name=fcategory] select {background:#fff;min-width:250px}
+
+.board_view { width: 100%; border-collapse: collapse }
+.board_view th, .board_view td { border-bottom: 1px solid #d3d3d3; border-top: 1px solid #d3d3d3; padding: 8px 0;  }
+.board_view th { background: #f2f2f2; font-weight: normal; text-align: center }
+.board_view td { padding-left: 10px }
+
+
+.board_write { width: 100%; border-collapse: collapse }
+.board_write th, .board_write td { border-bottom: 1px solid #d3d3d3; border-top: 1px solid #d3d3d3; padding: 8px 0 }
+.board_write th { font-weight: normal; text-align: center; background: #efefef; position:relative }
+.board_write th em {position:absolute;right:-20px;width:2px;top:50%;;margin-top:-8%;height:20px;background:#624428;display:none}
+.board_write td { padding-left: 10px }
+.board_write tr:first-child th, .board_write tr:first-child td {}
