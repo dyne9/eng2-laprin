@@ -21,7 +21,6 @@ include "_head.php";
 		<a href="/page.php?pageIndex=110101" title="Breast Augmentation"></a>
 		<a href="/page.php?pageIndex=120101" title="Body Contouring"></a>
 		<a href="/page.php?pageIndex=130101" title="Facial Contouring"></a>
-		<a href="/page.php?pageIndex=140101" title="Stem Cell"></a>
 		<a href="/page.php?pageIndex=150101" title="Aesthetics"></a>
 		<a href="/page.php?pageIndex=160101" title="Women's Clinic"></a>
 	</div>
@@ -47,11 +46,6 @@ include "_head.php";
 				<a href="/page.php?pageIndex=120101"><img src="/img/mobile/index/sec3-2.jpg" class="w100" alt=""></a>
 				<strong>Large Volume<br>Liposuction</strong>
 				<p>Made possible by<br>LaPrin's 3STEP SAFE Lipo</p>
-			</div>
-			<div class="item" data-index="3">
-				<a href="/page.php?pageIndex=110103"><img src="/img/mobile/index/sec3-3.jpg" class="w100" alt=""></a>
-				<strong>Stem cell<br>Breast Implant</strong></strong>
-				<p>Various treatments available<br>for using your own stem cells</p>
 			</div>
 			
 		</div>

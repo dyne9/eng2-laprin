@@ -147,7 +147,7 @@ $sitemap = array(
 		array('110100', 'Breast'),
 		array('110101', 'Active-Subfascial Breast Implant'),
 		array('110102', 'Microthane Breast Implant'),
-		array('110103', 'Stem Cell Fat Grafting'),
+		// array('110103', 'Stem Cell Fat Grafting'),
 		array('110104', 'Revision Surgery')
 	),
 	'120'=> array(
@@ -171,12 +171,12 @@ $sitemap = array(
 		array('130111', 'Nano Fat Grafting'),
 		array('130112', 'MACS Lifting')
 	),
-	'140'=> array(
-		array('140100', 'Stem Cell'),
-		array('140101', 'About Stem Cell'),
-		array('140102', 'Stem cell Treatment'),
-		array('140103', 'Stem Cell Rejuvenation')
-	),
+	// '140'=> array(
+	// 	array('140100', 'Stem Cell'),
+	// 	array('140101', 'About Stem Cell'),
+	// 	array('140102', 'Stem cell Treatment'),
+	// 	array('140103', 'Stem Cell Rejuvenation')
+	// ),
 	'150'=> array(
 		array('150100', 'Aesthetics'),
 		array('150101', 'Filler & Botox'),

@@ -69,7 +69,6 @@ include_once(G5_THEME_PATH.'/head.php');
                 <div class="each-slide quick-01"><a href="/page.php?pageIndex=110101" class="fadeInTopItem"><i class="icon"></i><span class="text">Breast Augmentation</span></a></div>
                 <div class="each-slide quick-02"><a href="/page.php?pageIndex=120101" class="fadeInTopItem"><i class="icon"></i><span class="text">Body Contouring</span></a></div>
                 <div class="each-slide quick-03"><a href="/page.php?pageIndex=130101" class="fadeInTopItem"><i class="icon"></i><span class="text">Facial Contouring</span></a></div>
-                <div class="each-slide quick-04"><a href="/page.php?pageIndex=140101" class="fadeInTopItem"><i class="icon"></i><span class="text">Stem Cell</span></a></div>
                 <div class="each-slide quick-05"><a href="/page.php?pageIndex=150101" class="fadeInTopItem"><i class="icon"></i><span class="text">Aesthetics</span></a></div>
                 <div class="each-slide quick-06"><a href="/page.php?pageIndex=160101" class="fadeInTopItem"><i class="icon"></i><span class="text">Women's Clinic</span></a></div>
             </div>
@@ -105,19 +104,6 @@ include_once(G5_THEME_PATH.'/head.php');
                     </a>
                 </div>
                 <div class="each-slide">
-                    <a href="/page.php?pageIndex=140102">
-                        <span class="img-box"><img src="<?php echo G5_THEME_URL;?>/img/main/popular_03_thumb.jpg" alt=""></span>
-                        <span class="title">
-                            Stem cell<br>
-                            Treatment
-                        </span>
-                        <span class="sub">
-                            Various treatments available<br>
-                            for using your own stem cells
-                        </span>
-                    </a>
-                </div>
-                <div class="each-slide">
                     <a href="/page.php?pageIndex=110101">
                         <span class="img-box"><img src="<?php echo G5_THEME_URL;?>/img/main/popular_01_thumb.jpg" alt=""></span>
                         <span class="title">
@@ -140,19 +126,6 @@ include_once(G5_THEME_PATH.'/head.php');
                         <span class="sub">
                             Made possible by<br>
                             LaPrin's 3STEP SAFE Lipo
-                        </span>
-                    </a>
-                </div>
-                <div class="each-slide">
-                    <a href="/page.php?pageIndex=140102">
-                        <span class="img-box"><img src="<?php echo G5_THEME_URL;?>/img/main/popular_03_thumb.jpg" alt=""></span>
-                        <span class="title">
-                            Stem cell<br>
-                            Treatment
-                        </span>
-                        <span class="sub">
-                            Various treatments available<br>
-                            for using your own stem cells
                         </span>
                     </a>
                 </div>
